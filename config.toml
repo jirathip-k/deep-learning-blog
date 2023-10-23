@@ -1,5 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jirathip-k.github.io/deep-learning-blog/'
 languageCode = 'en-us'
 title = 'My Deep Learning Blog'
 
 theme = "paper"
+
+[params]
+    github = 'jirathip-k'
+    color = 'gray'
+    math = true
