@@ -1,7 +1,7 @@
 ---
 title: "Loss Functions"
 date: 2023-10-23T21:45:29+11:00
-draft: true
+draft: false
 ---
 
 There are two main loss functions in deep learning, one for regression task and one for classification task. The loss functions are generally derived from maximum likelihood estimation (MLE).
@@ -37,3 +37,5 @@ There are two main loss functions in deep learning, one for regression task and 
    where $y_{ic}$ is the true label of class $c$ for sample $i$, $\hat{y}_{ic}$ is the predicted probability of class $c$ for sample $i$, $N$ is the number of samples, and $C$ is the number of classes.
 
    - **Description**: Cross-entropy measures the performance of a classification model whose output is a probability value between 0 and 1. The term "cross-entropy" arises from the field of information theory, and in the context of machine learning, it quantifies the difference between two probability distributions: the true distribution (given by the labels) and the estimated distribution (given by the model's predictions). A smaller value of cross-entropy indicates that the model's predictions are close to the true labels.
+
+   - **Note**: Explore on KL TODO
