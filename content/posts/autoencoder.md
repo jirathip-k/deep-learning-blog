@@ -1,5 +1,5 @@
 ---
-title: "Representation Learning"
+title: "Autoencoder"
 date: 2023-10-24T15:54:07+11:00
 draft: true
 ---

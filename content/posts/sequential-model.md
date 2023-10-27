@@ -1,5 +1,5 @@
 ---
-title: "Sequential Models"
+title: "Sequential Model"
 date: 2023-10-24T14:43:53+11:00
 draft: false
 ---

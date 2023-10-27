@@ -6,5 +6,7 @@ theme = "paper"
 
 [params]
     github = 'jirathip-k'
+    linkedin = 'jirathip-kunkanjanathorn'
     color = 'gray'
     math = true
+    
